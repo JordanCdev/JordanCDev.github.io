@@ -1,6 +1,6 @@
 ---
-layout: misc
-title: About
+layout: page
+title: about
 image: self_photo_small.jpg
 ---
 
