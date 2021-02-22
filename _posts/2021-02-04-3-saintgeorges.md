@@ -5,6 +5,7 @@ author: "Jordan Coaten"
 #categories: story
 tags: [story, school]
 image: sgs.jpg
+permalink: posts/school
 ---
 To be updated...
 

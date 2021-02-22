@@ -5,6 +5,7 @@ author: "Jordan Coaten"
 #categories: story
 tags: [story]
 image: holding_hands.jpg
+permalink: posts/partnership
 ---
 To be updated...
 

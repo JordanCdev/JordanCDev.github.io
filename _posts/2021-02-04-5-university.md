@@ -5,6 +5,7 @@ author: "Jordan Coaten"
 #categories: story
 tags: [story, university]
 image: hull_outside.jpg
+permalink: posts/university
 ---
 To be updated...
 
